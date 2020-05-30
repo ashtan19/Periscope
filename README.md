@@ -4,7 +4,7 @@ A react app that leverages the Unsplash API to find you the images that you are 
 
 ## Example
 
-![alt text](https://github.com/[ashtan19]/[Periscope]/blob/[master]/public/PeriscopeDemo.png?raw=true)
+![Periscope Demo](https://github.com/ashtan19/Periscope/blob/master/public/PeriscopeDemo.png)
 
 ## How to Start
 
