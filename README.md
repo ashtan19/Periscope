@@ -1,6 +1,6 @@
 ## Periscope
 
-A react app that leverages the Unsplash API to find you the images that you are looking for!
+A react app that leverages Unsplash's API to find you images that you are looking for!
 
 ## Example
 
